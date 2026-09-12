@@ -63,12 +63,6 @@ Performans, verinin dağılımına doğrudan bağlı. Düzgün dağılmış veri
 karşılaştırma tabanlı algoritmaların O(n log n) sınırının altına inebiliyor;
 kümelenmiş veride ise kova içi sıralamanın karmaşıklığına geriliyor.
 
-## Derleme ve çalıştırma
-
-```bash
-g++ bucket_sort.cpp -o bucket_sort
-./bucket_sort
-```
 
 Örnek çıktı:
 
